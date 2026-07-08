@@ -1,0 +1,2 @@
+# Peta-Rasio-Jenis-Kelamin-Kabupaten-Gunung-Kidul-Tahun-2024
+Peta ini merupakan peta interaktif yang menampilkan data rasio jenis kelamin pada kecamatan-kecamatan yang tergabung dalam Kabupaten Gunung Kidul. Data rasio yang digunakan adalah data rasio jenis kelamin pada tahun 2024. Peta interaktif ini dibuat oleh Nicholas Wahyu indra Jaya (2502010132) presensi 28 dari kelas SPIP D dengan kode soal D.
